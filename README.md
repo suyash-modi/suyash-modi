@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suyash-modi
-- 👀 I’m interested in ...
+- 👀 I’m interested in Android development 
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me modisuyash63@gmail.com
