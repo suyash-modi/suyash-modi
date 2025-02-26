@@ -10,7 +10,8 @@
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/modisuy54tx)  
 
 ## 🚀 LeetCode Badges:
-<img src="[https://leetcode-badge-showcase.vercel.app/api?username={Suyash_Modi}&animated=true" alt="LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Suyash_Modi&theme=light&border=no-border&animated=true)" />
+![LeetCode Stats](https://leetcode-badge-showcase.vercel.app/api?username=Suyash_Modi&theme=light&border=no-border&animated=true)
+
 
 
 # 💻 Tech Stack:
